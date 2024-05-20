@@ -1,2 +1,0 @@
-# wazuh
-remove file virustotal
